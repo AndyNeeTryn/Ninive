@@ -1,0 +1,27 @@
+#artedaredução1 
+{width: 300px;
+font: 40px Amatic SC;
+color: #339966;
+-moz-transform:rotate(-33deg); 
+-webkit-transform:rotate(-33deg);
+margin-top: -70px;} 
+
+#artedaredução2 
+{width: 100px;
+font: 10px Calibri;
+color: #9e9e9e;
+-moz-transform:rotate(-90deg);
+-webkit-transform:rotate(-90deg);
+position: relative;
+bottom: 110px;
+right: 110px;} 
+
+#artedaredução3 
+{width: 100px;
+font: 10px Calibri;
+color: #9e9e9e;
+-moz-transform:rotate(90deg);
+-webkit-transform:rotate(90deg);
+position: relative;
+bottom: 108px;
+left: 109px;}
